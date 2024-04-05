@@ -1,1 +1,2 @@
-# This contains the M10 Assignment 
+We created an S3 Bucket and then did the Webscraping part.
+our dependencies are AWS cli, time,pandas,Selinium which we used in this,Then Cloning the repository,Installing dependencies,Configuring AWS CLI and setting up access to an S3 bucket,Running the Jupyter Notebook script.  
